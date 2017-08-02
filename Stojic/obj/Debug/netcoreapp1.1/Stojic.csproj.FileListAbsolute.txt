@@ -1,0 +1,9 @@
+c:\users\sdubos\documents\visual studio 2017\Projects\Stojic\Stojic\bin\Debug\netcoreapp1.1\Stojic.deps.json
+c:\users\sdubos\documents\visual studio 2017\Projects\Stojic\Stojic\bin\Debug\netcoreapp1.1\Stojic.runtimeconfig.json
+c:\users\sdubos\documents\visual studio 2017\Projects\Stojic\Stojic\bin\Debug\netcoreapp1.1\Stojic.runtimeconfig.dev.json
+c:\users\sdubos\documents\visual studio 2017\Projects\Stojic\Stojic\bin\Debug\netcoreapp1.1\Stojic.dll
+c:\users\sdubos\documents\visual studio 2017\Projects\Stojic\Stojic\bin\Debug\netcoreapp1.1\Stojic.pdb
+c:\users\sdubos\documents\visual studio 2017\Projects\Stojic\Stojic\obj\Debug\netcoreapp1.1\Stojic.csprojResolveAssemblyReference.cache
+c:\users\sdubos\documents\visual studio 2017\Projects\Stojic\Stojic\obj\Debug\netcoreapp1.1\Stojic.AssemblyInfo.cs
+c:\users\sdubos\documents\visual studio 2017\Projects\Stojic\Stojic\obj\Debug\netcoreapp1.1\Stojic.dll
+c:\users\sdubos\documents\visual studio 2017\Projects\Stojic\Stojic\obj\Debug\netcoreapp1.1\Stojic.pdb
