@@ -15,3 +15,6 @@ c:\Users\sdubos\Documents\Visual Studio 2017\Projects\Stojic\Stojic\bin\Debug\ne
 c:\Users\sdubos\Documents\Visual Studio 2017\Projects\Stojic\Stojic\obj\Debug\netcoreapp1.1\Stojic.AssemblyInfo.cs
 c:\Users\sdubos\Documents\Visual Studio 2017\Projects\Stojic\Stojic\obj\Debug\netcoreapp1.1\Stojic.dll
 c:\Users\sdubos\Documents\Visual Studio 2017\Projects\Stojic\Stojic\obj\Debug\netcoreapp1.1\Stojic.pdb
+C:\Users\sdubos\Documents\Visual Studio 2017\Projects\Stojic\Stojic\obj\Debug\netcoreapp1.1\Stojic.csprojResolveAssemblyReference.cache
+C:\Users\sdubos\Documents\Visual Studio 2017\Projects\Stojic\Stojic\obj\Debug\netcoreapp1.1\Stojic.csproj.CoreCompileInputs.cache
+C:\Users\sdubos\Documents\Visual Studio 2017\Projects\Stojic\Stojic\obj\Debug\netcoreapp1.1\Stojic.AssemblyInfoInputs.cache

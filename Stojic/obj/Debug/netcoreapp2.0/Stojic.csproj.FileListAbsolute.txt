@@ -1,0 +1,11 @@
+C:\Users\sdubos\Documents\Visual Studio 2017\Projects\Stojic\Stojic\bin\Debug\netcoreapp2.0\Stojic.deps.json
+C:\Users\sdubos\Documents\Visual Studio 2017\Projects\Stojic\Stojic\bin\Debug\netcoreapp2.0\Stojic.runtimeconfig.json
+C:\Users\sdubos\Documents\Visual Studio 2017\Projects\Stojic\Stojic\bin\Debug\netcoreapp2.0\Stojic.runtimeconfig.dev.json
+C:\Users\sdubos\Documents\Visual Studio 2017\Projects\Stojic\Stojic\bin\Debug\netcoreapp2.0\Stojic.dll
+C:\Users\sdubos\Documents\Visual Studio 2017\Projects\Stojic\Stojic\bin\Debug\netcoreapp2.0\Stojic.pdb
+C:\Users\sdubos\Documents\Visual Studio 2017\Projects\Stojic\Stojic\obj\Debug\netcoreapp2.0\Stojic.csprojResolveAssemblyReference.cache
+C:\Users\sdubos\Documents\Visual Studio 2017\Projects\Stojic\Stojic\obj\Debug\netcoreapp2.0\Stojic.csproj.CoreCompileInputs.cache
+C:\Users\sdubos\Documents\Visual Studio 2017\Projects\Stojic\Stojic\obj\Debug\netcoreapp2.0\Stojic.AssemblyInfoInputs.cache
+C:\Users\sdubos\Documents\Visual Studio 2017\Projects\Stojic\Stojic\obj\Debug\netcoreapp2.0\Stojic.AssemblyInfo.cs
+C:\Users\sdubos\Documents\Visual Studio 2017\Projects\Stojic\Stojic\obj\Debug\netcoreapp2.0\Stojic.dll
+C:\Users\sdubos\Documents\Visual Studio 2017\Projects\Stojic\Stojic\obj\Debug\netcoreapp2.0\Stojic.pdb
